@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AistePalsgaardMacys
+- 👀 I’m interested in data analytics.
+- 🌱 I’m currently learning SQL,R, going through Google Certificate.
+- 💞️ I’m looking to collaborate on projects!
+- 📫 How to reach me send me a message to aistemacy@gmail.com!
